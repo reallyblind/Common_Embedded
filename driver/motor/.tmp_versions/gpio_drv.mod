@@ -1,0 +1,3 @@
+/home/wangwenghan/code/drivers_projects_fast_learn/05_drivers_from_template1/05_motor/gpio_drv.ko
+/home/wangwenghan/code/drivers_projects_fast_learn/05_drivers_from_template1/05_motor/gpio_drv.o
+
