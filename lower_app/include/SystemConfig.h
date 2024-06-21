@@ -1,12 +1,4 @@
-/*
- * File      : SystemConfig.h
- * This file is for system config 
- * COPYRIGHT (C) 2020, zc
- *
- * Change Logs:
- * Date           Author       Notes
- * 2020-5-30      zc           the first version
- */
+
 
 /**
  * @addtogroup IMX6ULL

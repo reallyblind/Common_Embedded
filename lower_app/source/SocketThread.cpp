@@ -1,12 +1,4 @@
-﻿/*
- * File      : SocketThread.cpp
- * Socket应用执行任务
- * COPYRIGHT (C) 2020, zc
- *
- * Change Logs:
- * Date           Author       Notes
- * 2020-5-23      zc           the first version
- */
+﻿
 
 /**
  * @addtogroup IMX6ULL

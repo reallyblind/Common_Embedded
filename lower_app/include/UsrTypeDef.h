@@ -1,13 +1,4 @@
-/*
- * File      : typedef.h
- * system define
- * COPYRIGHT (C) 2020, zc
- *
- * Change Logs:
- * Date           Author       Notes
- * 2020-5-4      zc           the first version
- * 2020-5-20     zc           Code standardization 
- */
+
 
 /**
  * @addtogroup IMX6ULL
