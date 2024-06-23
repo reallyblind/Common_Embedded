@@ -9,7 +9,8 @@ An embedded project be in common use which has about driver,lower_app and upper_
 ## 数据格式
 ![image](https://github.com/reallyblind/Common_Embedded/assets/101650178/c902526b-b8a0-45a7-8c9d-1a2048fb196f)
 ## 当前实现功能
-![image](https://github.com/reallyblind/Common_Embedded/assets/101650178/d5aaed89-c861-4a65-afb8-210b947e2ef3)
+![image](https://github.com/reallyblind/Common_Embedded/assets/101650178/d226c2ca-6bba-4a0a-b3b3-4cfd84ba3299)
+
 
 
 
