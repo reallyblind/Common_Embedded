@@ -1,12 +1,4 @@
-/*
- * File      : template.h
- * This file is template file interface
- * COPYRIGHT (C) 2020, zc
- *
- * Change Logs:
- * Date           Author       Notes
- * 2020-5-4      zc           the first version
- */
+
 
 /**
  * @addtogroup IMX6ULL
